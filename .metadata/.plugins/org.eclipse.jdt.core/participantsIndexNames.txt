@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+/home/krixhz/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2936048824.index
+/Hospital_Management_System/src/main/resources
+/home/krixhz/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/423482399.index
+/Hospital_Management_System/src/main/resources

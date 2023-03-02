@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/krixhz/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3143408001.index
+2114850211.index
+2656590129.index
+1560326676.index
+1578295588.index
+3500299625.index

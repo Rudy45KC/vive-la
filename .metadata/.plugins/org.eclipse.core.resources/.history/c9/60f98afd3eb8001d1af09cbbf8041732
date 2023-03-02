@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Home</title>
+<%@include file="components/resources.jsp" %>
+ <%--  include directive of jsp : which lets you import resources of another file. used to include a file during the translation phase--%>
+
+</head>
+<body>
+
+<h1>Hello world</h1>
+</body>
+</html>
